@@ -1,1 +1,2 @@
-# Nộp BTVN Machine Learning 2
+# Le Quoc Minh - 11206097 - DSEB62 - NEU
+
